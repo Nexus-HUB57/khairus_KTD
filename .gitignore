@@ -1,0 +1,16 @@
+# Secrets and local runtime files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.jks
+credentials/
+secrets/
+
+# Local/editor artifacts
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
