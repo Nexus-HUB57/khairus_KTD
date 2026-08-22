@@ -1,126 +1,12 @@
 {
-  "schema_version": "ktd-audiovisual-and-marketing-delivery-v2",
+  "schema_version": "ktd-lyrics-translations-matrix-v1",
   "repository": "Nexus-HUB57/khairus_KTD",
   "role": "audiovisual-and-marketing-linked-delivery",
   "source_repository": "Nexus-HUB57/KAIR-S-SONICA",
-  "migration_batch": "batch-002-lote1-lyrics",
-  "migration_date": "2026-08-22",
-  "migration_history": [
-    "batch-001-approved-finals",
-    "batch-002-lote1-lyrics"
-  ],
-  "approval_rule": "Audiovisual assets require explicit final approval; linked lyrics, translations and campaign materials require explicit editorial status and provenance.",
-  "items": [
-    {
-      "path": "video/singles/single-1-unleash-the-dragon/approved-clips/unleash-the-dragon-realgclip-01-dressing-room-10s-with-audio.mp4",
-      "kind": "approved_clip",
-      "title": "UNLEASH THE DRAGON",
-      "single": 1,
-      "status": "approved_in_workflow_clip",
-      "source_path": "assets/video/promos/unleash-the-dragon-realgclip-01-dressing-room-10s-with-audio.mp4",
-      "approval_record": "docs/ktd-asset-catalog.md",
-      "sha256": "1b518db13ca7eba75a9dcdc365bfa4c2d975278a922b59471f67877439b8eeed"
-    },
-    {
-      "path": "video/shorts/single-1-fire-in-the-flood/approved/fire-in-the-flood-ktd-approved-dynamic-8s.mp4",
-      "kind": "approved_short",
-      "title": "FIRE IN THE FLOOD",
-      "single": 1,
-      "status": "approved_in_workflow",
-      "source_path": "assets/video/promos/tiktok/fire-in-the-flood-ktd-approved-dynamic-8s.mp4",
-      "approval_record": "docs/ktd-asset-catalog.md",
-      "sha256": "7a25ddeadda187b4cfdfb595d8b847ad2d9fa56740946de9b3844920b69c636b"
-    },
-    {
-      "path": "audio/singles/single-1-fire-in-the-flood/master/ktd-main-single-fire-in-the-flood-v1-reference-aligned-mix-v4.mp3",
-      "kind": "audio_master_mp3",
-      "title": "FIRE IN THE FLOOD",
-      "single": 1,
-      "status": "official_distribution_master_companion",
-      "source_path": "assets/audio/releases/ktd-main-single-fire-in-the-flood-v1-reference-aligned-mix-v4.mp3",
-      "approval_record": "docs/ktd-fire-in-the-flood-v4-distribution-metadata.md",
-      "sha256": "29c97dc68f487d945c6d0de02a88988ac41bd8fe3a9f56efaea6f743ab9ca208"
-    },
-    {
-      "path": "audio/singles/single-1-fire-in-the-flood/master/ktd-main-single-fire-in-the-flood-v1-reference-aligned-mix-v4.wav",
-      "kind": "audio_master_wav",
-      "title": "FIRE IN THE FLOOD",
-      "single": 1,
-      "status": "official_distribution_master",
-      "source_path": "assets/audio/releases/ktd-main-single-fire-in-the-flood-v1-reference-aligned-mix-v4.wav",
-      "approval_record": "docs/ktd-fire-in-the-flood-v4-distribution-metadata.md",
-      "sha256": "a8668295687effed989121e58cead63fa00d951aff9a8335ff2065f0edd44229"
-    },
-    {
-      "path": "audio/singles/single-2-six-names/master/ktd-second-single-six-names-rebuilt-soul-pre-release-v2.mp3",
-      "kind": "audio_master_mp3",
-      "title": "SIX NAMES",
-      "single": 2,
-      "status": "approved_final_companion",
-      "source_path": "assets/audio/releases/ktd-second-single-six-names-rebuilt-soul-pre-release-v2.mp3",
-      "approval_record": "docs/ktd-asset-catalog.md",
-      "sha256": "ffa5aa9198cd7d19f2323fa4c3d5f2a30fb8e5cae9e90aadad2f0779996b1751"
-    },
-    {
-      "path": "audio/singles/single-2-six-names/master/ktd-second-single-six-names-rebuilt-soul-pre-release-v2.wav",
-      "kind": "audio_master_wav",
-      "title": "SIX NAMES",
-      "single": 2,
-      "status": "approved_final",
-      "source_path": "assets/audio/releases/ktd-second-single-six-names-rebuilt-soul-pre-release-v2.wav",
-      "approval_record": "docs/ktd-asset-catalog.md",
-      "sha256": "4f0b53930b29361ba23c765a4f6df3a22f684918335d3568df7cd5eb329408d5"
-    },
-    {
-      "path": "video/singles/single-3-golden-scars/approved/golden-scars-v1-frame-the-whole-picture.mp4",
-      "kind": "approved_music_video_piece",
-      "title": "GOLDEN SCARS",
-      "single": 3,
-      "status": "official_track_piece",
-      "source_path": "assets/video/promos/golden-scars-v1-frame-the-whole-picture.mp4",
-      "approval_record": "docs/ktd-asset-catalog.md",
-      "sha256": "0b5d4f2b996c96c17d92b0c718ec4c14f241e795587f7bcf9eb47c5720aba21a"
-    },
-    {
-      "path": "audio/singles/single-3-golden-scars/master/ktd-third-single-golden-scars-trend-pre-release-v1.mp3",
-      "kind": "audio_master_mp3",
-      "title": "GOLDEN SCARS",
-      "single": 3,
-      "status": "approved_final_companion",
-      "source_path": "assets/audio/releases/ktd-third-single-golden-scars-trend-pre-release-v1.mp3",
-      "approval_record": "docs/ktd-asset-catalog.md",
-      "sha256": "eed1257ee42cff1ec5ec507b709eda2eaa1b5c92977ad76b2820ce33d2242230"
-    },
-    {
-      "path": "audio/singles/single-3-golden-scars/master/ktd-third-single-golden-scars-trend-pre-release-v1.wav",
-      "kind": "audio_master_wav",
-      "title": "GOLDEN SCARS",
-      "single": 3,
-      "status": "approved_final",
-      "source_path": "assets/audio/releases/ktd-third-single-golden-scars-trend-pre-release-v1.wav",
-      "approval_record": "docs/ktd-asset-catalog.md",
-      "sha256": "8ff81301c8728e35ba228084825b3ee5c8c5d64f6a2ba5a8131e84dd1df617b8"
-    },
-    {
-      "path": "audio/singles/single-4-pressure-speaks/master/pressure-speaks-ktd-essence-v1-master.mp3",
-      "kind": "audio_master_mp3",
-      "title": "Pressure Speaks",
-      "single": 4,
-      "status": "approved_final_companion",
-      "source_path": "outputs/single_4/pressure-speaks-ktd-essence-v1-master.mp3",
-      "approval_record": "docs/singles/single-4-pressure-speaks-approved.md",
-      "sha256": "0b757691bd739acb88ec335cffe7ab96777149f0e2b4424d0521e3d4ed624254"
-    },
-    {
-      "path": "audio/singles/single-4-pressure-speaks/master/pressure-speaks-ktd-essence-v1-master.wav",
-      "kind": "audio_master_wav",
-      "title": "Pressure Speaks",
-      "single": 4,
-      "status": "approved_final",
-      "source_path": "outputs/single_4/pressure-speaks-ktd-essence-v1-master.wav",
-      "approval_record": "docs/singles/single-4-pressure-speaks-approved.md",
-      "sha256": "de997c004fe8e22e97dbf7e4a4d2e99c17f7f7b716af2230ec0406ed08816743"
-    },
+  "review_scope": "Lote 1 — Singles 4, 5, 7, 8 e 9, 10",
+  "review_date": "2026-08-22",
+  "translation_rule": "PT-BR is a reference translation; English remains the official composition language.",
+  "records": [
     {
       "record_id": "single-4-original-en-v1",
       "single": 4,
@@ -136,10 +22,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-4-pressure-speaks/reviews/line-review-v2.md",
       "sha256": "a539e170bf1fdb86694fb4788fdda2a135b47a863d9331d71b1b1b4d55850d6d",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-4-pressure-speaks-approved.md",
-      "linked_review": "lyrics/singles/single-4-pressure-speaks/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-4-pt-br-reference-v1-archived",
@@ -156,10 +39,7 @@
       "review_status": "superseded_by_v2",
       "line_review_path": "lyrics/singles/single-4-pressure-speaks/reviews/line-review-v2.md",
       "sha256": "f0023648dc43b14d909a34362dc76583ec48d2c7d33ef5fc7c2de65f064675af",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-4-pressure-speaks-approved.md",
-      "linked_review": "lyrics/singles/single-4-pressure-speaks/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-4-pt-br-reference-v2",
@@ -176,30 +56,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-4-pressure-speaks/reviews/line-review-v2.md",
       "sha256": "71aa75e550a84008f5b5ae0447ae4efaaa097d9d132cda805ad7b409ad5b68b9",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-4-pressure-speaks-approved.md",
-      "linked_review": "lyrics/singles/single-4-pressure-speaks/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
-    },
-    {
-      "path": "audio/singles/single-5-no-more-quiet-cries/master/single_5_no_more_quiet_cries_v1-master.mp3",
-      "kind": "audio_master_mp3",
-      "title": "No More Quiet Cries",
-      "single": 5,
-      "status": "approved_final_companion",
-      "source_path": "outputs/single_5/single_5_no_more_quiet_cries_v1-master.mp3",
-      "approval_record": "docs/singles/single-5-no-more-quiet-cries-approved.md",
-      "sha256": "2401507017abeaf5eb01dec06ee3f4f53960c9b7657a26338095b7975641f214"
-    },
-    {
-      "path": "audio/singles/single-5-no-more-quiet-cries/master/single_5_no_more_quiet_cries_v1-master.wav",
-      "kind": "audio_master_wav",
-      "title": "No More Quiet Cries",
-      "single": 5,
-      "status": "approved_final",
-      "source_path": "outputs/single_5/single_5_no_more_quiet_cries_v1-master.wav",
-      "approval_record": "docs/singles/single-5-no-more-quiet-cries-approved.md",
-      "sha256": "a89a976887fc8389cffa3b04379fc6a9737f4f5b062d1670b6a6607c6911f91f"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-5-original-en-v1",
@@ -216,10 +73,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-5-no-more-quiet-cries/reviews/line-review-v2.md",
       "sha256": "30cb3af2357bb83dff3d09b634fe832c970820f1366b427ef5e56628cee863c2",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-5-no-more-quiet-cries-approved.md",
-      "linked_review": "lyrics/singles/single-5-no-more-quiet-cries/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-5-pt-br-reference-v1-archived",
@@ -236,10 +90,7 @@
       "review_status": "superseded_by_v2",
       "line_review_path": "lyrics/singles/single-5-no-more-quiet-cries/reviews/line-review-v2.md",
       "sha256": "98d2d27f274b1f64e39528c147a4fd7dded543d8ed2afe12079ff01ded68a389",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-5-no-more-quiet-cries-approved.md",
-      "linked_review": "lyrics/singles/single-5-no-more-quiet-cries/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-5-pt-br-reference-v2",
@@ -256,10 +107,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-5-no-more-quiet-cries/reviews/line-review-v2.md",
       "sha256": "4ebda21c1e9d53c04c7f83887f6c9b2601c8a09bb6633b3f7d5d2a97f6febba4",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-5-no-more-quiet-cries-approved.md",
-      "linked_review": "lyrics/singles/single-5-no-more-quiet-cries/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-7-original-en-v1",
@@ -276,10 +124,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-7-no-one-saved-me-a-seat/reviews/line-review-v2.md",
       "sha256": "fb46e4417f78ef6059c3fc97f81e53301ded60f5ad197bada9866e279a4b9cd9",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-7-no-one-saved-me-a-seat-lyrics-v1.md",
-      "linked_review": "lyrics/singles/single-7-no-one-saved-me-a-seat/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-7-pt-br-reference-v1-archived",
@@ -296,10 +141,7 @@
       "review_status": "superseded_by_v2",
       "line_review_path": "lyrics/singles/single-7-no-one-saved-me-a-seat/reviews/line-review-v2.md",
       "sha256": "6279200fd49e5659aef90d23347c5dbcb0630162b5dee8de1abe499ef1a24d8c",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-7-no-one-saved-me-a-seat-lyrics-v1.md",
-      "linked_review": "lyrics/singles/single-7-no-one-saved-me-a-seat/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-7-pt-br-reference-v2",
@@ -316,10 +158,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-7-no-one-saved-me-a-seat/reviews/line-review-v2.md",
       "sha256": "995806871867342147b549cf444c0fbad1596b70b7d3b85472137de368d32c5c",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-7-no-one-saved-me-a-seat-lyrics-v1.md",
-      "linked_review": "lyrics/singles/single-7-no-one-saved-me-a-seat/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-8-original-en-v1",
@@ -336,10 +175,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-8-build-the-door-behind-me/reviews/line-review-v2.md",
       "sha256": "cb51811d0b1a4d04c51e3c4d1e28daa7960e70140a8e704242c9e8e97df5bdce",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-8-build-the-door-behind-me-lyrics-v1.md",
-      "linked_review": "lyrics/singles/single-8-build-the-door-behind-me/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-8-pt-br-reference-v1-archived",
@@ -356,10 +192,7 @@
       "review_status": "superseded_by_v2",
       "line_review_path": "lyrics/singles/single-8-build-the-door-behind-me/reviews/line-review-v2.md",
       "sha256": "4f5a8e1eaafee70ecdda98f90151e9f5f789c386cc933c4066a5acc0ee52ba9b",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-8-build-the-door-behind-me-lyrics-v1.md",
-      "linked_review": "lyrics/singles/single-8-build-the-door-behind-me/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-8-pt-br-reference-v2",
@@ -376,10 +209,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-8-build-the-door-behind-me/reviews/line-review-v2.md",
       "sha256": "22a53f60afa0a424c518e34104fc79e28bc3abfdecead036fae1c1c0fd37bf87",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-8-build-the-door-behind-me-lyrics-v1.md",
-      "linked_review": "lyrics/singles/single-8-build-the-door-behind-me/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-9-original-en-v1",
@@ -396,10 +226,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-9-you-came-back-when-i-won/reviews/line-review-v2.md",
       "sha256": "3550eceedf784de645180e7e443157f121f94f57cbe922e883d511f9ac79f48b",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-9-you-came-back-when-i-won-approval-v1.md",
-      "linked_review": "lyrics/singles/single-9-you-came-back-when-i-won/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-9-pt-br-reference-v1-archived",
@@ -416,10 +243,7 @@
       "review_status": "superseded_by_v2",
       "line_review_path": "lyrics/singles/single-9-you-came-back-when-i-won/reviews/line-review-v2.md",
       "sha256": "44aafcfdf704bc557f4245e7d3f38b8cc0029edf27b0a3b6de0ab2c311900e06",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-9-you-came-back-when-i-won-approval-v1.md",
-      "linked_review": "lyrics/singles/single-9-you-came-back-when-i-won/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-9-pt-br-reference-v2",
@@ -436,10 +260,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-9-you-came-back-when-i-won/reviews/line-review-v2.md",
       "sha256": "7f2724cc3ddcbb32f3efdd05ae5bde0a994f5b9a5112d98bef47b91feec5db79",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-9-you-came-back-when-i-won-approval-v1.md",
-      "linked_review": "lyrics/singles/single-9-you-came-back-when-i-won/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-10-original-en-v1",
@@ -456,10 +277,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-10-the-dragon-sleeps/reviews/line-review-v2.md",
       "sha256": "c9210b242ebc403649b0f36d6e3ab5ca818de2f03dca85a6bc5e1133016f5518",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-10-the-dragon-sleeps-lyrics-v1.md",
-      "linked_review": "lyrics/singles/single-10-the-dragon-sleeps/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-10-pt-br-reference-v1-archived",
@@ -476,10 +294,7 @@
       "review_status": "superseded_by_v2",
       "line_review_path": "lyrics/singles/single-10-the-dragon-sleeps/reviews/line-review-v2.md",
       "sha256": "002e44ad37458258e68f5922e74d5bb3ce4bdbbecd839de1e0a59be00513db27",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-10-the-dragon-sleeps-lyrics-v1.md",
-      "linked_review": "lyrics/singles/single-10-the-dragon-sleeps/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     },
     {
       "record_id": "single-10-pt-br-reference-v2",
@@ -496,11 +311,7 @@
       "review_status": "reviewed",
       "line_review_path": "lyrics/singles/single-10-the-dragon-sleeps/reviews/line-review-v2.md",
       "sha256": "d6f8983e445cc31bcbb9e760b300baa32df91c5bce4a44c4481f032961a5ee0a",
-      "updated_at": "2026-08-22",
-      "approval_record": "docs/singles/single-10-the-dragon-sleeps-lyrics-v1.md",
-      "linked_review": "lyrics/singles/single-10-the-dragon-sleeps/reviews/line-review-v2.md",
-      "repository_role": "linked_lyric_or_translation"
+      "updated_at": "2026-08-22"
     }
-  ],
-  "lyrics_translation_matrix": "LYRICS_TRANSLATIONS_MATRIX.json"
+  ]
 }
