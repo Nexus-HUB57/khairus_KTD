@@ -1,6 +1,6 @@
 # KTD — Coletânea completa do primeiro álbum
 
-Esta pasta reúne os **13 masters enviados pelo titular** na ordem canônica do primeiro álbum de Kháirus the Dragon. Os arquivos estão em `audio/albums/ktd-first-album/masters/` e foram copiados sem recodificação a partir dos uploads recebidos em 27 de agosto de 2026.
+Esta pasta reúne os **14 masters enviados/aprovados pelo titular** na ordem canônica atual do primeiro álbum de Kháirus the Dragon. Os arquivos estão em `audio/albums/ktd-first-album/masters/` e foram copiados sem recodificação a partir dos uploads recebidos em 27 de agosto de 2026.
 
 | Faixa | Título | Master |
 |---:|---|---|
@@ -17,13 +17,14 @@ Esta pasta reúne os **13 masters enviados pelo titular** na ordem canônica do 
 | 11 | I Won’t Waste This Life | `11-i-wont-waste-this-life.mp3` |
 | 12 | Hold the Ladder | `12-hold-the-ladder.mp3` |
 | 13 | What Happens in Vegas | `13-what-happens-in-vegas.mp3` |
+| 14 | Paid in Full | `14-paid-in-full.mp3` |
 
 ## Proveniência e preservação
 
-Cada arquivo é uma cópia byte a byte do upload correspondente. Os diretórios históricos e as fichas individuais não foram removidos nem sobrescritos. A alegação de aprovação dos 13 singles foi recebida do titular nesta sessão; os status anteriores de cada ficha continuam preservados para auditoria.
+Cada arquivo é uma cópia byte a byte do upload correspondente. Os diretórios históricos e as fichas individuais não foram removidos nem sobrescritos. A aprovação dos 13 singles anteriores e do Single #14 foi recebida do titular nesta sessão; os status anteriores de cada ficha continuam preservados para auditoria.
 
 A relação completa de duração, parâmetros, hashes SHA-256, reconciliação com masters anteriores e ressalvas PHD está registrada no manifesto correspondente do repositório de produção: `docs/albums/ktd-first-album-collection-v1.md`.
 
 ## Gate de entrega
 
-Esta coleção foi organizada como conjunto de entrega separado. A publicação deve ocorrer somente após validar o diff, os hashes e a decodificação integral dos 13 MP3s. Nenhum material de trabalho ou prova reprovada deve ser misturado a esta pasta.
+Esta coleção foi organizada como conjunto de entrega separado. A publicação deve ocorrer somente após validar o diff, os hashes e a decodificação integral dos 14 MP3s. Nenhum material de trabalho ou prova reprovada deve ser misturado a esta pasta.
