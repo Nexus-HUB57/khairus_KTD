@@ -6,6 +6,8 @@
 **Orquestração:** DJ Káiros / KAIR-S-SONICA  
 **Status:** Protocolo operacional para produção, revisão e rejeição de materiais
 
+> **Controle de identidade v1.0:** a referência visual prevalente é a tríade formada por `assets/persona/ktd-visual-master.png`, `assets/persona/artista-principal-diamante.png` e `assets/persona/ktd-physical-turnaround-sheet.png`, conforme `docs/ktd-av-reference-authority-v1.md`. A lateralidade da heterocromia permanece `PENDING_HUMAN_RESOLUTION` até ratificação explícita do titular; textos operacionais não devem fixar `left/right` antes dessa decisão.
+
 > **Princípio central:** nenhum material entra no catálogo oficial por parecer “bonito”, “viral” ou tecnicamente impressionante. Ele só avança quando preserva a identidade de KTD, demonstra execução audiovisual real, respeita a direção musical e passa pelos gates de qualidade, direitos, continuidade e aprovação humana.
 
 ## 1. Escopo e autoridade
@@ -49,12 +51,14 @@ Os dados abaixo são **referências ficcionais de design e continuidade do perso
 | Pele | Marrom-escura, textura natural, subtom quente |
 | Cabeça | Raspada, sem cabelo visível |
 | Barba | Longa, cheia, preta, bem contornada, aproximadamente 20 cm |
-| Olhos | Esquerdo mel/âmbar; direito azul-claro |
+| Olhos | Heterocromia natural; lado anatômico e cores finais conforme a diretiva de autoridade visual e o decision record do titular |
 | Sobrancelhas | Alinhadas, com dois riscos dourados discretos |
 | Postura | Ombros abertos, centro de gravidade firme e presença de palco |
 | Calçado | US 12 / EU 46 |
 
 ### 2.3 Mapa de tatuagens e continuidade corporal
+
+A verificação de identidade deve usar a tríade visual oficial e a orientação anatômica do sujeito. A descrição textual não pode prevalecer sobre as imagens aprovadas quando houver divergência.
 
 O peito possui sete garras verticais do Dragão Diamante alinhadas ao esterno. O desenho continua pelo abdômen até o umbigo; as costas fecham a criatura de sete cabeças. O braço esquerdo recebe carpas, ondas e cerejeiras. O braço direito recebe samurai, armadura e nuvens orientais. A paleta corporal é predominantemente carvão, preto e cinza profundo, com dourado pontual e azul-acinzentado.[3]
 
@@ -161,7 +165,7 @@ A pasta de referências aprovadas registra vídeos verticais de 720×1280, 24 fp
 | Eixo | Critério de aceite |
 |---|---|
 | Identidade | Cabeça raspada, barba longa, pele marrom profunda, riscos dourados e presença reconhecível |
-| Heterocromia | Olho esquerdo mel/âmbar e direito azul-claro, sem troca de lado, neon ou uniformização |
+| Heterocromia | Heterocromia natural; lateralidade e cores conforme a diretiva de autoridade visual e decision record ratificado, sem troca de lado, neon ou uniformização |
 | Tatuagens | Mapa corporal contínuo, anatômico e sem mutações |
 | Performance | Respiração, olhos, boca, mãos, transferência de peso e deslocamento observáveis |
 | Câmera | Travelling, órbita, dolly-back, arco, handheld sutil ou push-in acompanhando ação física real |
