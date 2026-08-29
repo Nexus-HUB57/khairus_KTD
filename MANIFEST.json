@@ -500,6 +500,46 @@
       "approval_record": "docs/singles/single-10-the-dragon-sleeps-lyrics-v1.md",
       "linked_review": "lyrics/singles/single-10-the-dragon-sleeps/reviews/line-review-v2.md",
       "repository_role": "linked_lyric_or_translation"
+    },
+    {
+      "path": "audio/singles/single-16-he-died-kneeling/master/ktd-sixteenth-single-he-died-kneeling-v1-official.wav",
+      "kind": "audio_master_wav",
+      "title": "HE DIED KNEELING",
+      "single": 16,
+      "status": "official_distribution_master",
+      "source_path": "assets/audio/releases/ktd-sixteenth-single-he-died-kneeling-v1-official.wav",
+      "approval_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "sha256": "4a794e431787b8e1f3eec41b8980935835440981e84261ab5fccac2a902e5dcd"
+    },
+    {
+      "path": "audio/singles/single-16-he-died-kneeling/master/ktd-sixteenth-single-he-died-kneeling-v1-official.mp3",
+      "kind": "audio_master_mp3",
+      "title": "HE DIED KNEELING",
+      "single": 16,
+      "status": "official_distribution_companion",
+      "source_path": "assets/audio/releases/ktd-sixteenth-single-he-died-kneeling-v1-official.mp3",
+      "approval_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "sha256": "3c0355e0659a77f908dcc0d8f989ab0d0bc4a14abe8b176d500340ede304f627"
+    },
+    {
+      "path": "audio/albums/ktd-first-album/masters/16-he-died-kneeling.mp3",
+      "kind": "album_master_mp3",
+      "title": "HE DIED KNEELING",
+      "single": 16,
+      "status": "official_catalog_master",
+      "source_path": "assets/audio/albums/ktd-first-album/masters/16-he-died-kneeling.mp3",
+      "approval_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "sha256": "3c0355e0659a77f908dcc0d8f989ab0d0bc4a14abe8b176d500340ede304f627"
+    },
+    {
+      "path": "audio/albums/ktd-first-album/masters/16-he-died-kneeling.wav",
+      "kind": "album_master_wav",
+      "title": "HE DIED KNEELING",
+      "single": 16,
+      "status": "official_catalog_master",
+      "source_path": "assets/audio/albums/ktd-first-album/masters/16-he-died-kneeling.wav",
+      "approval_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "sha256": "4a794e431787b8e1f3eec41b8980935835440981e84261ab5fccac2a902e5dcd"
     }
   ],
   "lyrics_translation_matrix": "LYRICS_TRANSLATIONS_MATRIX.json"

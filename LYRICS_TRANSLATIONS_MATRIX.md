@@ -29,3 +29,11 @@
 Foram organizados seis pares inglês/PT-BR, três registros por single, totalizando 18 registros. Cada single possui um ledger com comparação linha a linha. As cópias v1 das traduções foram preservadas em `archive/` e as v2 revisadas ficam na raiz de `pt-BR-reference/`.
 
 A revisão manteve a letra inglesa e o áudio intactos. As mudanças de tradução registradas foram: “encontrar voz” no Single 4; “portão” para alinhar `gate` no Single 7; refinamentos de ambiguidade/idioma no Single 9; e restauração da linha sobre amar os números e adorar o brilho no segundo refrão do Single 10.
+
+## Addendum — Single 16 aprovado em 2026-08-29
+
+| Single | Título | Original EN | PT-BR de referência | Status |
+|---:|---|---|---|---|
+| 16 | *HE DIED KNEELING* | `lyrics/singles/single-16-he-died-kneeling/original-en/single-16-he-died-kneeling-lyrics-v3-official.md` | `lyrics/singles/single-16-he-died-kneeling/pt-BR-reference/single-16-he-died-kneeling-lyrics-pt-br-v3-reference.md` | Inglês `approved_official`; PT-BR `approved_reference`; áudio aprovado pelo titular |
+
+A letra inglesa v3 acompanha a tomada musical aprovada e substitui os rascunhos de desenvolvimento como companheira oficial do release. A tradução PT-BR é exclusivamente de referência e não autoriza gravação vocal em português. O registro de aprovação está em `docs/singles/single-16-he-died-kneeling-approved-v1.md`.

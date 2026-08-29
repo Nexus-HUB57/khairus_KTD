@@ -3,8 +3,8 @@
   "repository": "Nexus-HUB57/khairus_KTD",
   "role": "audiovisual-and-marketing-linked-delivery",
   "source_repository": "Nexus-HUB57/KAIR-S-SONICA",
-  "review_scope": "Lote 1 — Singles 4, 5, 7, 8, 9 e 10",
-  "review_date": "2026-08-22",
+  "review_scope": "Lote 1 — Singles 4, 5, 7, 8, 9 e 10; Single 16 aprovado em 2026-08-29",
+  "review_date": "2026-08-29",
   "translation_rule": "PT-BR is a reference translation; English remains the official composition language.",
   "records": [
     {
@@ -312,6 +312,42 @@
       "line_review_path": "lyrics/singles/single-10-the-dragon-sleeps/reviews/line-review-v2.md",
       "sha256": "d6f8983e445cc31bcbb9e760b300baa32df91c5bce4a44c4481f032961a5ee0a",
       "updated_at": "2026-08-22"
+    },
+    {
+      "record_id": "single-16-original-en-v3-official",
+      "single": 16,
+      "title": "HE DIED KNEELING",
+      "language": "en",
+      "kind": "original_lyric",
+      "version": "v3",
+      "status": "approved_official",
+      "path": "lyrics/singles/single-16-he-died-kneeling/original-en/single-16-he-died-kneeling-lyrics-v3-official.md",
+      "source_path": "docs/singles/single-16-he-died-kneeling-lyrics-v3-official.md",
+      "source_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "paired_record_id": "single-16-pt-br-reference-v3",
+      "review_status": "reviewed",
+      "sha256": "b0338b15169af335edd02097a862e51cb6ddbb930e2eae23ff7c32ee71230b91",
+      "updated_at": "2026-08-29",
+      "approval_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "repository_role": "linked_lyric_or_translation"
+    },
+    {
+      "record_id": "single-16-pt-br-reference-v3",
+      "single": 16,
+      "title": "HE DIED KNEELING",
+      "language": "pt-BR",
+      "kind": "reference_translation",
+      "version": "v3",
+      "status": "approved_reference",
+      "path": "lyrics/singles/single-16-he-died-kneeling/pt-BR-reference/single-16-he-died-kneeling-lyrics-pt-br-v3-reference.md",
+      "source_path": "docs/singles/pt-br/single-16-he-died-kneeling-lyrics-pt-br-v3-reference.md",
+      "source_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "paired_record_id": "single-16-original-en-v3-official",
+      "review_status": "reviewed",
+      "sha256": "b0ac26d586775f2da59b91ac0fd07737852a1aff77a46d396bb3a589afd186f2",
+      "updated_at": "2026-08-29",
+      "approval_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "repository_role": "linked_lyric_or_translation"
     }
   ]
 }

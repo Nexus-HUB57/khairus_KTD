@@ -28,3 +28,7 @@ A relação completa de duração, parâmetros, hashes SHA-256, reconciliação 
 ## Gate de entrega
 
 Esta coleção foi organizada como conjunto de entrega separado. A publicação deve ocorrer somente após validar o diff, os hashes e a decodificação integral dos 14 MP3s. Nenhum material de trabalho ou prova reprovada deve ser misturado a esta pasta.
+
+## Addendum — Single 16 aprovado
+
+Em 2026-08-29, o titular aprovou o Single 16, **HE DIED KNEELING**, como camada oficial posterior à coleção original de 14 masters. Os arquivos estão em `audio/albums/ktd-first-album/masters/16-he-died-kneeling.mp3` e `audio/albums/ktd-first-album/masters/16-he-died-kneeling.wav`. A adição é não destrutiva: nenhum master histórico foi removido, renomeado ou sobrescrito. A aprovação, a letra inglesa, a tradução PT-BR e os hashes estão registrados no `MANIFEST.json` e em `LYRICS_TRANSLATIONS_MATRIX.json`.
