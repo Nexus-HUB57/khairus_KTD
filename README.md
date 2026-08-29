@@ -55,6 +55,11 @@ O batch 001 contém masters de áudio dos Singles 1–5 e três materiais de ví
 
 Os arquivos administrativos, jurídicos, credenciais, workflows de infraestrutura, RAG de produção e campanhas ainda em desenvolvimento permanecem no repositório de produção. Apenas os materiais de marketing diretamente vinculados e aprovados para ativação devem ser copiados para `campaigns/`.
 
-## Single 16 — pacote oficial aprovado
+## Single 16 — promoção retirada e candidata em revisão
 
-O Single 16, **HE DIED KNEELING**, foi aprovado pelo titular em 2026-08-29 na versão musical exata da Prova 6. O pacote público inclui master WAV PCM, MP3 companheiro, letra oficial em inglês, tradução PT-BR de referência, registro de aprovação e relatório de QC. O áudio está registrado no `MANIFEST.json` e o par textual está registrado em `LYRICS_TRANSLATIONS_MATRIX.json`. Nenhum vídeo, capa, thumbnail ou campanha visual está implicitamente aprovado por essa promoção.
+A promoção anterior do Single 16, **HE DIED KNEELING**, foi retirada pelo titular em 2026-08-29 após revisão da letra. O pacote histórico preserva o áudio anterior; a letra v4, a tradução PT-BR v4 e a Prova 8 permanecem candidatas em revisão. Os status estão registrados no `MANIFEST.json` e em `LYRICS_TRANSLATIONS_MATRIX.json`; nenhum arquivo candidato é release aprovado. Nenhum vídeo, capa, thumbnail ou campanha visual está implicitamente aprovado por essa promoção.
+
+
+## Single 16 — correção editorial
+
+Em 2026-08-29, o titular retirou a promoção anterior do Single 16 como release ativo porque a letra publicada era resumida e não correspondia à letra aprovada. Os arquivos anteriores permanecem preservados como histórico, mas não são masters/letras ativos. A reconstrução v4 e a Prova 8 estão em `DRAFT`/`TECHNICAL_TEST` e aguardam nova aprovação humana.

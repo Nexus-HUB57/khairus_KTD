@@ -37,3 +37,8 @@ A revisão manteve a letra inglesa e o áudio intactos. As mudanças de traduç�
 | 16 | *HE DIED KNEELING* | `lyrics/singles/single-16-he-died-kneeling/original-en/single-16-he-died-kneeling-lyrics-v3-official.md` | `lyrics/singles/single-16-he-died-kneeling/pt-BR-reference/single-16-he-died-kneeling-lyrics-pt-br-v3-reference.md` | Inglês `approved_official`; PT-BR `approved_reference`; áudio aprovado pelo titular |
 
 A letra inglesa v3 acompanha a tomada musical aprovada e substitui os rascunhos de desenvolvimento como companheira oficial do release. A tradução PT-BR é exclusivamente de referência e não autoriza gravação vocal em português. O registro de aprovação está em `docs/singles/single-16-he-died-kneeling-approved-v1.md`.
+
+
+## Single 16 — correção editorial
+
+Em 2026-08-29, o titular retirou a promoção anterior do Single 16 como release ativo porque a letra publicada era resumida e não correspondia à letra aprovada. Os arquivos anteriores permanecem preservados como histórico, mas não são masters/letras ativos. A reconstrução v4 e a Prova 8 estão em `DRAFT`/`TECHNICAL_TEST` e aguardam nova aprovação humana.

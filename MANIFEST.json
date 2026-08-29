@@ -9,7 +9,7 @@
     "batch-001-approved-finals",
     "batch-002-lote1-lyrics"
   ],
-  "approval_rule": "Audiovisual assets require explicit final approval; linked lyrics, translations and campaign materials require explicit editorial status and provenance.",
+  "approval_rule": "Single 16 prior promotion withdrawn on 2026-08-29; v4 lyric and Prova 8 remain candidate/TECHNICAL_TEST pending exact titular approval.",
   "items": [
     {
       "path": "video/singles/single-1-unleash-the-dragon/approved-clips/unleash-the-dragon-realgclip-01-dressing-room-10s-with-audio.mp4",
@@ -506,9 +506,9 @@
       "kind": "audio_master_wav",
       "title": "HE DIED KNEELING",
       "single": 16,
-      "status": "official_distribution_master",
+      "status": "withdrawn_historical_proof",
       "source_path": "assets/audio/releases/ktd-sixteenth-single-he-died-kneeling-v1-official.wav",
-      "approval_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "approval_record": "docs/singles/single-16-he-died-kneeling-correction-record-v1.md",
       "sha256": "4a794e431787b8e1f3eec41b8980935835440981e84261ab5fccac2a902e5dcd"
     },
     {
@@ -516,9 +516,9 @@
       "kind": "audio_master_mp3",
       "title": "HE DIED KNEELING",
       "single": 16,
-      "status": "official_distribution_companion",
+      "status": "withdrawn_historical_proof",
       "source_path": "assets/audio/releases/ktd-sixteenth-single-he-died-kneeling-v1-official.mp3",
-      "approval_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "approval_record": "docs/singles/single-16-he-died-kneeling-correction-record-v1.md",
       "sha256": "3c0355e0659a77f908dcc0d8f989ab0d0bc4a14abe8b176d500340ede304f627"
     },
     {
@@ -526,9 +526,9 @@
       "kind": "album_master_mp3",
       "title": "HE DIED KNEELING",
       "single": 16,
-      "status": "official_catalog_master",
+      "status": "withdrawn_historical_proof",
       "source_path": "assets/audio/albums/ktd-first-album/masters/16-he-died-kneeling.mp3",
-      "approval_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "approval_record": "docs/singles/single-16-he-died-kneeling-correction-record-v1.md",
       "sha256": "3c0355e0659a77f908dcc0d8f989ab0d0bc4a14abe8b176d500340ede304f627"
     },
     {
@@ -536,10 +536,42 @@
       "kind": "album_master_wav",
       "title": "HE DIED KNEELING",
       "single": 16,
-      "status": "official_catalog_master",
+      "status": "withdrawn_historical_proof",
       "source_path": "assets/audio/albums/ktd-first-album/masters/16-he-died-kneeling.wav",
-      "approval_record": "docs/singles/single-16-he-died-kneeling-approved-v1.md",
+      "approval_record": "docs/singles/single-16-he-died-kneeling-correction-record-v1.md",
       "sha256": "4a794e431787b8e1f3eec41b8980935835440981e84261ab5fccac2a902e5dcd"
+    },
+    {
+      "record_id": "single-16-original-en-v4-candidate",
+      "single": 16,
+      "title": "HE DIED KNEELING",
+      "language": "en",
+      "kind": "candidate_lyric",
+      "version": "v4",
+      "status": "candidate",
+      "path": "lyrics/singles/single-16-he-died-kneeling/original-en/single-16-he-died-kneeling-lyrics-v4-candidate.md",
+      "source_path": "docs/singles/single-16-he-died-kneeling-lyrics-v4-candidate.md",
+      "source_record": "docs/singles/single-16-he-died-kneeling-correction-record-v1.md",
+      "paired_record_id": "single-16-pt-br-reference-v4-candidate",
+      "sha256": "f5a6dac94ad52ca254549b1091d7a56d98d53ca51c718d39ea381f4cec9f4e2a",
+      "updated_at": "2026-08-29",
+      "repository_role": "candidate_linked_lyric"
+    },
+    {
+      "record_id": "single-16-pt-br-reference-v4-candidate",
+      "single": 16,
+      "title": "HE DIED KNEELING",
+      "language": "pt-BR",
+      "kind": "candidate_translation",
+      "version": "v4",
+      "status": "candidate",
+      "path": "lyrics/singles/single-16-he-died-kneeling/pt-BR-reference/single-16-he-died-kneeling-lyrics-pt-br-v4-candidate.md",
+      "source_path": "docs/singles/pt-br/single-16-he-died-kneeling-lyrics-pt-br-v4-candidate.md",
+      "source_record": "docs/singles/single-16-he-died-kneeling-correction-record-v1.md",
+      "paired_record_id": "single-16-original-en-v4-candidate",
+      "sha256": "63991820bb134eac3ace4dbda549b8eb6b87ba71a0c90950f731883d816d04d8",
+      "updated_at": "2026-08-29",
+      "repository_role": "candidate_linked_translation"
     }
   ],
   "lyrics_translation_matrix": "LYRICS_TRANSLATIONS_MATRIX.json"
