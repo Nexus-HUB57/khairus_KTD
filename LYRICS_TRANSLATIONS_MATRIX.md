@@ -47,3 +47,8 @@ Em 2026-08-29, o titular retirou a promoção anterior do Single 16 como release
 ## Prova 8 — tradução PT-BR da transcrição
 
 A tradução PT-BR da transcrição da Prova 8 foi adicionada como referência de escuta em 2026-09-01. Ela não é letra oficial nem aprovação do áudio; os trechos ambíguos e a linha final inadequada permanecem sinalizados no documento.
+
+
+## Documento bilíngue oficial da letra v4
+
+A letra integral em inglês e sua tradução PT-BR correspondente estão consolidadas no documento bilíngue canônico. O áudio V8 continua em revisão técnica separada.

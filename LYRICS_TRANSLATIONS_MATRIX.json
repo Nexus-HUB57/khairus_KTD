@@ -396,6 +396,20 @@
       "sha256": "2108190e239f83d6d5fdcb30c64b139afb8af5cbc1718f7e1073703c541e1876",
       "updated_at": "2026-09-01",
       "repository_role": "proof_reference_translation"
+    },
+    {
+      "record_id": "single-16-official-bilingual-lyrics-v4",
+      "single": 16,
+      "title": "HE DIED KNEELING",
+      "language": "en+pt-BR",
+      "kind": "official_bilingual_lyric_document",
+      "version": "v4",
+      "status": "official_document_pending_audio_approval",
+      "path": "lyrics/singles/single-16-he-died-kneeling/bilingual/single-16-he-died-kneeling-official-bilingual-lyrics-v4.md",
+      "source_path": "docs/singles/single-16-he-died-kneeling-official-bilingual-lyrics-v4.md",
+      "sha256": "8b560bc94d0821dc3f6452fb9690c442164eb087b6bd6b0db4be9e5c34acd04e",
+      "updated_at": "2026-09-01",
+      "repository_role": "canonical_bilingual_lyric"
     }
   ]
 }
