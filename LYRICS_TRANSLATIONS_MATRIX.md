@@ -42,3 +42,8 @@ A letra inglesa v3 acompanha a tomada musical aprovada e substitui os rascunhos 
 ## Single 16 — correção editorial
 
 Em 2026-08-29, o titular retirou a promoção anterior do Single 16 como release ativo porque a letra publicada era resumida e não correspondia à letra aprovada. Os arquivos anteriores permanecem preservados como histórico, mas não são masters/letras ativos. A reconstrução v4 e a Prova 8 estão em `DRAFT`/`TECHNICAL_TEST` e aguardam nova aprovação humana.
+
+
+## Prova 8 — tradução PT-BR da transcrição
+
+A tradução PT-BR da transcrição da Prova 8 foi adicionada como referência de escuta em 2026-09-01. Ela não é letra oficial nem aprovação do áudio; os trechos ambíguos e a linha final inadequada permanecem sinalizados no documento.

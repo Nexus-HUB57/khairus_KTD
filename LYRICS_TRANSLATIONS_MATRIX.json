@@ -3,8 +3,8 @@
   "repository": "Nexus-HUB57/khairus_KTD",
   "role": "audiovisual-and-marketing-linked-delivery",
   "source_repository": "Nexus-HUB57/KAIR-S-SONICA",
-  "review_scope": "Single 16 correction review — v3 withdrawn; v4 candidate and Prova 8 pending human approval",
-  "review_date": "2026-08-29",
+  "review_scope": "Single 16 correction review — includes PT-BR transcription reference for Prova 8",
+  "review_date": "2026-09-01",
   "translation_rule": "PT-BR is a reference translation; English remains the official composition language.",
   "records": [
     {
@@ -380,6 +380,22 @@
       "sha256": "63991820bb134eac3ace4dbda549b8eb6b87ba71a0c90950f731883d816d04d8",
       "updated_at": "2026-08-29",
       "repository_role": "candidate_linked_translation"
+    },
+    {
+      "record_id": "single-16-prova-8-pt-br-transcription-reference",
+      "single": 16,
+      "title": "HE DIED KNEELING",
+      "language": "pt-BR",
+      "kind": "proof_transcription_translation",
+      "version": "v8",
+      "status": "reference_only",
+      "path": "lyrics/singles/single-16-he-died-kneeling/pt-BR-reference/single-16-he-died-kneeling-prova-8-v8-transcription-pt-br-reference.md",
+      "source_path": "docs/singles/pt-br/single-16-he-died-kneeling-prova-8-v8-transcription-pt-br-reference.md",
+      "source_audio": "audio not mirrored in public candidate package; see production repository output path",
+      "source_record": "docs/singles/single-16-he-died-kneeling-prova-8-v8-transcription_20260829_145339.txt",
+      "sha256": "2108190e239f83d6d5fdcb30c64b139afb8af5cbc1718f7e1073703c541e1876",
+      "updated_at": "2026-09-01",
+      "repository_role": "proof_reference_translation"
     }
   ]
 }
